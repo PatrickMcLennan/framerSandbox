@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "jsx": "react",
+    "paths": {
+      "View/*": ["src/views/*"]
+    }
+  }
+}
