@@ -4,6 +4,7 @@
     "esModuleInterop": true,
     "jsx": "react",
     "paths": {
+      "Component/*": ["src/components/*"],
       "View/*": ["src/views/*"]
     }
   }

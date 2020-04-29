@@ -6,7 +6,7 @@ const Home: FC = () => {
   return (
     <>
       <h1>Hello I am home</h1>
-      <S.P whileHover={{ padding: 300 }}>
+      <S.P>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur minus
         quisquam perspiciatis ipsa labore error rem at aperiam saepe sapiente
         quasi impedit nam optio aliquam reiciendis itaque quis iste facilis
